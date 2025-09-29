@@ -32,7 +32,7 @@ Tarang offers a multi-faceted approach to solving common urban transportation ch
 <img width="1100" height="710" alt="image" src="https://github.com/user-attachments/assets/b7433720-2a3b-4dbe-bf2e-ef6f855ec021" />
 <img width="1098" height="715" alt="image" src="https://github.com/user-attachments/assets/c0dc8530-f324-4d88-a8cc-aaa660d2bc35" />
 <img width="1102" height="714" alt="image" src="https://github.com/user-attachments/assets/ce0a8bcd-30d7-4794-be81-4f5462417439" />
-<img width="1101" height="715" alt="image" src="https://github.com/user-attachments/assets/fe755973-1c6e-4166-8ee9-01aeba25acbb" />
+<img width="1497" height="983" alt="image" src="https://github.com/user-attachments/assets/4972295f-bb85-4261-94d5-474196c16238" />
 <img width="1099" height="726" alt="image" src="https://github.com/user-attachments/assets/5e2ff707-2e89-4e19-850f-036208fbf5cd" />
 
 
